@@ -1,7 +1,5 @@
 <template>
   <div>
-    <main>
-      <ContentDoc />
-    </main>
+    <NuxtWelcome />
   </div>
 </template>
